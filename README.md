@@ -1,6 +1,6 @@
 ## ipfs-swarm-key-gen
 
-This program generates swarm.key file for ipfs Private Network feature
+This program generates swarm.key file for IPFS Private Network feature.
 
 ### Installation
 
